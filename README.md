@@ -33,6 +33,10 @@ QQ Summary Genius ，一个简单而强大的QQ聊天AI总结工具，帮你提�
 └── conclusion/           # AI总结生成的文件目录
 ```
 
+## 实现效果
+
+示例文件位于 `inputs/`、`outputs/`、`conclusion/`中。
+
 ## 🚀 快速开始
 
 1. 克隆仓库：
